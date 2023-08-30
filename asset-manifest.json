@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/password-generator-app/static/css/main.6d461495.css",
+    "main.js": "/password-generator-app/static/js/main.fbd2fc7c.js",
+    "static/media/passwordgif.gif": "/password-generator-app/static/media/passwordgif.41b50a01b4d0a0f2c9ba.gif",
+    "index.html": "/password-generator-app/index.html",
+    "main.6d461495.css.map": "/password-generator-app/static/css/main.6d461495.css.map",
+    "main.fbd2fc7c.js.map": "/password-generator-app/static/js/main.fbd2fc7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d461495.css",
+    "static/js/main.fbd2fc7c.js"
+  ]
+}
